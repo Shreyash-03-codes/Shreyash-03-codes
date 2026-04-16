@@ -185,8 +185,7 @@ public class Shreyash {
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a3a1a,100:0d2b0d&height=180&fontSize=65&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%"/>
 
 *⭐ If you find my work interesting, consider giving a star to my repositories!*
 
