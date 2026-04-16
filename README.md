@@ -83,6 +83,11 @@ public class Shreyash {
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+### 🧠 Core Concepts
+![OOP](https://img.shields.io/badge/OOP-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![System Design](https://img.shields.io/badge/System_Design-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
 ---
 
 ## 🚀 Featured Projects
